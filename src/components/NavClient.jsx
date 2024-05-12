@@ -37,6 +37,10 @@ const NavClient = () => {
                                 <li className="nav-item">
                                     <NavLink className="nav-link" to="/jobposted">Your Job</NavLink>
                                 </li>
+                                <li className="nav-item">
+                                    <NavLink className="nav-link" to="/chatting">Chat</NavLink>
+                                </li>
+                               
                                
                             </ul>
                         </div>
