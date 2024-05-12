@@ -45,3 +45,10 @@
 //     )
 // }
 // export default Home;
+
+
+const Home=()=>{
+    return(
+        <div className=""></div>
+    )
+}
